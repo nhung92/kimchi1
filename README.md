@@ -29,3 +29,4 @@ fbd
 bdf
 vs
 vs
+vfsz
