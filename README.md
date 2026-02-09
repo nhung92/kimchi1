@@ -39,3 +39,4 @@ gb
 sb
 sgb
 gsbsr
+stru
